@@ -1,0 +1,37 @@
+C:\Users\fedig\Desktop\New folder\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\obj\Debug\net5.0-windows\IEEE_ESPRIT_SB_SPAM.Form1.resources
+C:\Users\fedig\Desktop\New folder\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\obj\Debug\net5.0-windows\IEEE_ESPRIT_SB_SPAM.Resources.resources
+C:\Users\fedig\Desktop\New folder\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\obj\Debug\net5.0-windows\IEEE_ESPRIT_SB_SPAM.vbproj.GenerateResource.cache
+C:\Users\fedig\Desktop\New folder\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\obj\Debug\net5.0-windows\IEEE_ESPRIT_SB_SPAM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fedig\Desktop\New folder\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\obj\Debug\net5.0-windows\IEEE_ESPRIT_SB_SPAM.AssemblyInfoInputs.cache
+C:\Users\fedig\Desktop\New folder\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\obj\Debug\net5.0-windows\IEEE_ESPRIT_SB_SPAM.AssemblyInfo.vb
+C:\Users\fedig\Desktop\New folder\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\obj\Debug\net5.0-windows\IEEE_ESPRIT_SB_SPAM.vbproj.CoreCompileInputs.cache
+C:\Users\fedig\Desktop\New folder\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\bin\Debug\net5.0-windows\IEEE_ESPRIT_SB_SPAM.exe
+C:\Users\fedig\Desktop\New folder\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\bin\Debug\net5.0-windows\IEEE_ESPRIT_SB_SPAM.deps.json
+C:\Users\fedig\Desktop\New folder\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\bin\Debug\net5.0-windows\IEEE_ESPRIT_SB_SPAM.runtimeconfig.json
+C:\Users\fedig\Desktop\New folder\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\bin\Debug\net5.0-windows\IEEE_ESPRIT_SB_SPAM.runtimeconfig.dev.json
+C:\Users\fedig\Desktop\New folder\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\bin\Debug\net5.0-windows\IEEE_ESPRIT_SB_SPAM.dll
+C:\Users\fedig\Desktop\New folder\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\bin\Debug\net5.0-windows\ref\IEEE_ESPRIT_SB_SPAM.dll
+C:\Users\fedig\Desktop\New folder\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\bin\Debug\net5.0-windows\IEEE_ESPRIT_SB_SPAM.pdb
+C:\Users\fedig\Desktop\New folder\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\obj\Debug\net5.0-windows\IEEE_ESPRIT_SB_SPAM.dll
+C:\Users\fedig\Desktop\New folder\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\obj\Debug\net5.0-windows\ref\IEEE_ESPRIT_SB_SPAM.dll
+C:\Users\fedig\Desktop\New folder\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\obj\Debug\net5.0-windows\IEEE_ESPRIT_SB_SPAM.pdb
+C:\Users\fedig\Desktop\New folder\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\obj\Debug\net5.0-windows\IEEE_ESPRIT_SB_SPAM.genruntimeconfig.cache
+C:\Users\fedig\Desktop\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\bin\Debug\net5.0-windows\IEEE_ESPRIT_SB_SPAM.exe
+C:\Users\fedig\Desktop\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\bin\Debug\net5.0-windows\IEEE_ESPRIT_SB_SPAM.deps.json
+C:\Users\fedig\Desktop\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\bin\Debug\net5.0-windows\IEEE_ESPRIT_SB_SPAM.runtimeconfig.json
+C:\Users\fedig\Desktop\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\bin\Debug\net5.0-windows\IEEE_ESPRIT_SB_SPAM.runtimeconfig.dev.json
+C:\Users\fedig\Desktop\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\bin\Debug\net5.0-windows\IEEE_ESPRIT_SB_SPAM.dll
+C:\Users\fedig\Desktop\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\bin\Debug\net5.0-windows\ref\IEEE_ESPRIT_SB_SPAM.dll
+C:\Users\fedig\Desktop\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\bin\Debug\net5.0-windows\IEEE_ESPRIT_SB_SPAM.pdb
+C:\Users\fedig\Desktop\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\obj\Debug\net5.0-windows\IEEE_ESPRIT_SB_SPAM.vbprojAssemblyReference.cache
+C:\Users\fedig\Desktop\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\obj\Debug\net5.0-windows\IEEE_ESPRIT_SB_SPAM.Form1.resources
+C:\Users\fedig\Desktop\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\obj\Debug\net5.0-windows\IEEE_ESPRIT_SB_SPAM.Resources.resources
+C:\Users\fedig\Desktop\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\obj\Debug\net5.0-windows\IEEE_ESPRIT_SB_SPAM.vbproj.GenerateResource.cache
+C:\Users\fedig\Desktop\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\obj\Debug\net5.0-windows\IEEE_ESPRIT_SB_SPAM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fedig\Desktop\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\obj\Debug\net5.0-windows\IEEE_ESPRIT_SB_SPAM.AssemblyInfoInputs.cache
+C:\Users\fedig\Desktop\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\obj\Debug\net5.0-windows\IEEE_ESPRIT_SB_SPAM.AssemblyInfo.vb
+C:\Users\fedig\Desktop\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\obj\Debug\net5.0-windows\IEEE_ESPRIT_SB_SPAM.vbproj.CoreCompileInputs.cache
+C:\Users\fedig\Desktop\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\obj\Debug\net5.0-windows\IEEE_ESPRIT_SB_SPAM.dll
+C:\Users\fedig\Desktop\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\obj\Debug\net5.0-windows\ref\IEEE_ESPRIT_SB_SPAM.dll
+C:\Users\fedig\Desktop\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\obj\Debug\net5.0-windows\IEEE_ESPRIT_SB_SPAM.pdb
+C:\Users\fedig\Desktop\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\IEEE_ESPRIT_SB_SPAM\obj\Debug\net5.0-windows\IEEE_ESPRIT_SB_SPAM.genruntimeconfig.cache
